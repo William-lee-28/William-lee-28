@@ -5,7 +5,13 @@
 ![Visitor Count](https://profile-counter.glitch.me/William-Lee-28/count.svg)
 
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=William-Lee-28&theme=dracula)
-![](https://img.shields.io/badge/C++-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
+- 🔭 I’m currently working on Nautilus Robomaster
+- 🌱 I’m currently learning ROS2
+- 👯 I’m looking to collaborate on RM Vision
+- 🤔 I’m looking for help with automatic drive
+- 📫 How to reach me: 298316672(QQ) 15176892591(Wechat) 298316672@qq.com(Email)
 
 
 <!--
