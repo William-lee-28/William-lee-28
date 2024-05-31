@@ -5,7 +5,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/William-Lee-28/count.svg)
 
 ![](https://github-readme-activity-graph.cyclic.app/graph?username=William-Lee-28&theme=dracula)
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/C++-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
 <!--
